@@ -1,1 +1,161 @@
-tarea de 102 etiquetas. 
+<!DOCTYPE html>
+<html  >
+<head> 
+
+    <title>Etiquetas en HTML </title>
+     <link rel="stylesheet" href="style.css">
+</head>
+<body>
+    <h1>Etiquetas HTML</h1>
+
+    <img src="ht.jpg" alt="html" width="250" height="250">
+    <hr>
+
+    <div>
+        <h3>Metadatos</h3>
+        <ol>
+                <li>title: Etiqueta usada para definir el titulo de la pagina web <a target="_blank" href="https://developer.mozilla.org/es/docs/Web/HTML/Reference/Elements/title">Mas info aqui</a></li>
+
+                <li>link: Se usa para enlazar recursos externos al documento HTML. <a target="_blank" href="https://developer.mozilla.org/es/docs/Web/HTML/Reference/Elements/link">Mas info aqui</a></li>
+
+                <li>style: Etiquetas usadas para introducir codigo CSS en linea, es decir, en el propio documento HTML.<a target="_blank" href="https://developer.mozilla.org/es/docs/Web/HTML/Reference/Elements/style">Mas info aqui</a></li>
+
+                 <li>DOCTYPE: Dice que el Tipo de documento es HTML.	<a target="_blank" href="https://developer.mozilla.org/es/docs/Glossary/Doctype">Mas info aqui</a></li>
+        </ol>
+    </div>
+
+    <hr>
+
+    <div>
+        <h3>Seleccionadores</h3>
+        <ol>
+                <li>body: dentro de esta es donde va todo lo visible de la pagina web. <a target="_blank" href="https://developer.mozilla.org/es/docs/Web/HTML/Reference/Elements/body">Mas info aqui</a></li>
+
+                <li> nav: Usadas para definir el contenido que sera la seccion de navegacion de la web.<a target="_blank" href="https://developer.mozilla.org/es/docs/Web/HTML/Reference/Elements/nav">Mas info aqui</a></li>
+
+                <li> main: Se usa para definir el contenido principal del documento.Solamente puede existir uno por documento.<a target="_blank"  href="https://developer.mozilla.org/es/docs/Web/HTML/Reference/Elements/main">Mas info aqui</a></li>
+
+                <li>section: Define una sección del documento.<a target="_blank" href="https://developer.mozilla.org/es/docs/Web/HTML/Reference/Elements/section">Mas info aqui</a> </li>
+
+                <li>article:Define contenido independiente de la web.<a target="_blank" href="https://developer.mozilla.org/es/docs/Web/HTML/Reference/Elements/article">Mas info aqui</a> </li>
+
+                <li>Aside: Dentro de estas etiquetas suele alojarse el contenido adicional de la web.<a target="_blank" href="https://developer.mozilla.org/es/docs/Web/HTML/Reference/Elements/aside">Mas info aqui</a> </li>
+
+                <li>div:es un Contenedor genérico de sección.	 <a target="_blank" href="https://developer.mozilla.org/es/docs/Web/HTML/Reference/Elements/div">Mas info aqui</a></li>
+
+                <li>header: es el Encabezado del contenido o sección.	<a target="_blank" href="https://developer.mozilla.org/es/docs/Web/HTML/Reference/Elements/header">Mas info aqui</a></li>
+                
+        </ol>
+    </div>
+
+ <hr>
+
+    <div>
+      <h3>Textos</h3>
+      <ol>
+        <li>h1,h2,h3,h4>,h5>,h6: para poner titulos por su tamaÑo que ayuda a jerarquizar.<a target="_blank" href="https://developer.mozilla.org/es/docs/Web/HTML/Reference/Elements/Heading_Elements">Mas info aqui</a></li>
+
+        <li>a: esta Define un enlace	y sus atributos son href, target, download, rel, type, hreflang, accesskey, tabindex.
+        <a target="_blank" href="https://developer.mozilla.org/es/docs/Web/HTML/Reference/Elements/a">Mas info aqui</a></li>
+
+        <li>strong: Esta Define texto en negrita. <a target="_blank" href="https://developer.mozilla.org/es/docs/Web/HTML/Reference/Elements/strong">Mas info aqui</a></li>
+
+        <li>em: Define texto enfatizado.	 <a target="_parent" href="https://developer.mozilla.org/es/docs/Web/HTML/Reference/Elements/em">Mas info aqui</a></li>
+
+        <li>u:Define texto subrayado.	 <a target="_blank" href="https://developer.mozilla.org/es/docs/Web/HTML/Reference/Elements/u">Mas info aqui</a></li>
+
+        <li>sup: Define texto sobrescrito.	<a target="_blank" href="https://developer.mozilla.org/es/docs/Web/HTML/Reference/Elements/sup">Mas info aqui</a></li>
+
+        <li>sub: Define texto subíndice. <a target="_blank" href="https://developer.mozilla.org/es/docs/Web/HTML/Reference/Elements/sub">Mas info aqui</a></li>
+
+        <li>blockquote: Define una cita larga.	<a target="_blank" href="https://developer.mozilla.org/es/docs/Web/HTML/Reference/Elements/blockquote">Mas info aqui</a></li>
+
+        <li>span: Incluye texto en línea.	 <a target="_blank" href="https://developer.mozilla.org/es/docs/Web/HTML/Reference/Elements/span">Mas info aqui</a></li>
+
+        <li>time: Define una fecha/hora	 y su atributo es datetime.<a target="_blank" href="https://developer.mozilla.org/es/docs/Web/HTML/Reference/Elements/time">Mas info aqui</a></li>
+
+         <li>dfn: Define el término de una definición	.<a target="_blank" href="https://developer.mozilla.org/es/docs/Web/HTML/Reference/Elements/dfn">Mas info aqui</a></li>
+
+          <li>br:Salto de línea.	 <a target="_blank" href="https://developer.mozilla.org/es/docs/Web/HTML/Reference/Elements/br">Mas info aqui</a></li>
+
+           <li>hr: Cambio de temática a partir de una línea dibujada.<a target="_blank" href="https://developer.mozilla.org/es/docs/Web/HTML/Reference/Elements/hr">Mas info aqui</a></li>
+         
+
+      </ol>
+    </div>
+    
+ <hr> 
+
+    <div>
+      <h3>Listas</h3>
+      <ol>
+         <li>ul: Una lista desordenada.	y sus atributos type, start, reversed <a href="">Mas info aqui</a></li>
+         <li>ol: Una lista ordenada.	y atributos type, start, reversed. <a href="">Mas info aqui</a></li>
+         <li>li: Un elemento de lista dentro de una lista desordenada o ordenada.	atributo, value.  <a href="">Mas info aqui</a></li>
+         <li>dl: Una lista de definición.	<a href="">Mas info aqui</a></li>
+         
+      </ol>
+    </div>
+
+     <hr>
+
+    <div>
+      <h3>Tablas</h3>
+      <ol>
+        <li>table: Crea una tabla, y sus atributos son border, cellpadding, cellspacing, width.<a href="">Mas info aqui</a></li>
+        <li>caption: Agrega un título a la tabla	 <a href="">Mas info aqui</a></li>
+        <li>th: Define una celda de encabezado en una tabla	 y sus atributos,colspan, rowspan. <a href="">Mas info aqui</a></li>
+        <li>tr: Define una fila en una tabla.<a href="">Mas info aqui</a></li>
+        <li>td:Define una celda en una tabla. <a href=""></a>Mas info aqui</li>
+        <li>thead: Agrupa el contenido del encabezado en una tabla. <a href="">Mas info aqui</a></li>
+        <li>tbody:Agrupa el contenido del cuerpo en una tabla. <a href="">Mas info aqui</a></li>
+        <li>tfoot: Agrupa el contenido del pie de página en una tabla. <a href="">Mas info aqui</a></li>
+         
+
+      </ol>
+    </div>
+
+     <hr>
+
+    <div>
+      <h3>Multimedia y scripts</h3>
+      <ol>
+        <li>script: Define un script en JavaScript u otro lenguaje de script, y sus atributos src, type, async, defer, crossorigin <a href="">Mas info aqui</a></li>
+        <li>noscript: Define un contenido alternativo para navegadores que no admiten scripts.<a href="">Mas info aqui</a></li>
+        <li>audio:Define un archivo de sonido o música, que se reproduce cuando se carga la página web, atributos: src, preload, autoplay, loop, controls <a href="">Mas info aqui</a></li>
+        <li>video: Define un archivo de video, que se reproduce cuando se carga la página web. atributos: src, width, height, poster, preload, autoplay, loop, controls
+  <a href="">Mas info aqui</a></li>
+        <li>source: Define múltiples recursos de medios para elementos multimedia como audio y video. atributos: src, type, media
+ <a href="">Mas info aqui</a></li>
+        <li>map: Define una imagen como un mapa de imagen. <a href="">Mas info aqui</a></li>
+        <li>progress: Define una barra de progreso para tareas largas en curso, como descargas o carga de archivos.<a href="">Mas info aqui</a></li>
+         
+      </ol>
+    </div>
+
+     <hr>
+
+    <div>
+      <h3>Formularios</h3>
+      <ol>
+         <li>form: Crea un formulario HTML. atributos: action, method, target <a href="">Mas info aqui</a></li>
+        <li>input: Define un campo de entrada. atributos: type, name, value, placeholder, required, autofocus, disabled
+        <a href="">Mas info aqui</a></li>
+        <li>textarea: Define un área de texto para entrada de datos. atributos: name, rows, cols, placeholder, required, autofocus, disabled
+<a href="">Mas info aqui</a></li>
+        <li>select:Define una lista desplegable. atributos: name, multiple, size, required, autofocus, disabled. <a href="">Mas info aqui</a></li>
+        <li>button: Define un botón de formulario.	atributos: type, name, value, autofocus, disabled. <a href="">Mas info aqui</a></li>
+        <li>input type=»radio: Define un botón de radio.	atributos: name, value, checked, required, autofocus, disabled
+ <a href="">Mas info aqui</a></li>
+        <li>input type=»submit: Define un botón de envío de formulario.	atributos:name, value, formaction, formmethod, formtarget, formenctype, autofocus, disabled
+   <a href="">Mas info aqui</a></li>
+        <li>input type=»image:Define una imagen como botón de envío de formulario.	atributos: src, alt, name, value, formaction, formmethod, formtarget, formenctype, autofocus, disabled
+ <a href="">Mas info aqui</a></li>
+      </ol>
+    </div>
+
+    <footer>practica para aprender. todos los derechos reservados, engels©©</footer>
+
+    
+</body>
+</html>
